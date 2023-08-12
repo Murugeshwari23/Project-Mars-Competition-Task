@@ -1,31 +1,31 @@
 ﻿[
     {
-        "updatecertificateName": "Salesforce",
+        "certificateAwardName": "Salesforce",
         "certifiedFrom": "India",
         "certifiedYear": "2010"
     },
     {
-        "updatecertificateName": "Test Analyst",
+        "certificateAwardName": "Test Analyst",
         "certifiedFrom": "NZ",
         "certifiedYear": "2010"
     },
     {
-        "updatecertificateName": "Salesforce",
+        "certificateAwardName": "Salesforce",
         "certifiedFrom": "@#$%&",
         "certifiedYear": "1988"
     },
     {
-        "updatecertificateName": "Test Analyst",
+        "certificateAwardName": "Test Analyst",
         "certifiedFrom": "876457",
         "certifiedYear": "2010"
     },
     {
-        "updatecertificateName": "SALESFORCE",
+        "certificateAwardName": "SALESFORCE",
         "certifiedFrom": "    ",
         "certifiedYear": "1988"
     },
     {
-        "updatecertificateName": "Salesforce",
+        "certificateAwardName": "Salesforce",
         "certifiedFrom": "     ",
         "certifiedYear": "Year"
     }

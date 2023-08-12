@@ -29,6 +29,8 @@
   <ItemGroup>
     <Folder Include="EducationReports\" />
     <Folder Include="CertificationReports\" />
+    <Folder Include="Reports\" />
+    <Folder Include="Screenshots\" />
     <Folder Include="Screenshots\" />
   </ItemGroup>
 

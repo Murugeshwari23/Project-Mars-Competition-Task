@@ -84,11 +84,11 @@ namespace Competition_Task_ProjectMars.Pages
             CertificationpencilIcon.Click();
             Thread.Sleep(1000);
 
-            IWebElement updatecertificateName = driver.FindElement(By.Name("certificationName"));
-            updatecertificateName.Clear();
-            updatecertificateName.SendKeys(Keys.Control + "A");
-            updatecertificateName.SendKeys(Keys.Backspace);
-            updatecertificateName.SendKeys(updateInput.certificateAwardName);
+            IWebElement certificateAwardName = driver.FindElement(By.Name("certificationName"));
+            certificateAwardName.Clear();
+            certificateAwardName.SendKeys(Keys.Control + "A");
+            certificateAwardName.SendKeys(Keys.Backspace);
+            certificateAwardName.SendKeys(updateInput.certificateAwardName);
             Thread.Sleep(2000);
 
             Wait.WaitToBeVisible(driver, "Name", "certificationFrom", 3);
@@ -113,7 +113,7 @@ namespace Competition_Task_ProjectMars.Pages
             Console.WriteLine(popupMessageText);
 
             //verify the expected message text
-            string expectedMessage1 = updatecertificateName + " has been updated to your certification";
+            string expectedMessage1 = certificateAwardName + " has been updated to your certification";
             string expectedMessage2 = "Duplicated data";
             string expectedMessage3 = "Please enter Certification Name, Certification From and Certification Year";
             string expectedMessage4 = "This information is already exist.";
