@@ -1,0 +1,32 @@
+﻿[
+    {
+        "certificateAwardName": "Salesforce",
+        "certifiedFrom": "India",
+        "certifiedYear": "2010"
+    },
+    {
+        "certificateAwardName": "Test Analyst",
+        "certifiedFrom": "NZ",
+        "certifiedYear": "2010"
+    },
+    {
+        "certificateAwardName": "Salesforce",
+        "certifiedFrom": "@#$%&",
+        "certifiedYear": "1988"
+    },
+    {
+        "certificateAwardName": "Test Analyst",
+        "certifiedFrom": "876457",
+        "certifiedYear": "2010"
+    },
+    {
+        "certificateAwardName": "SALESFORCE",
+        "certifiedFrom": "    ",
+        "certifiedYear": "1988"
+    },
+    {
+        "certificateAwardName": "Salesforce",
+        "certifiedFrom": "     ",
+        "certifiedYear": "Year"
+    }
+]
